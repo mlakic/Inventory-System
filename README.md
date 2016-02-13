@@ -1,6 +1,7 @@
 # Inventory-System
 Movie rental store inventory system
 
+UWB CSS343 assignment
 Description:
 A local movie rental store wishes to automate their inventory tracking system. Currently there are three types of movies/videos (in DVD media) to be tracked:
 -	Comedy (denoted as ‘F’ for funny)
